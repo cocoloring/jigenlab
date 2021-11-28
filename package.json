@@ -1,0 +1,29 @@
+{
+  "private": true,
+  "name": "jigenlab",
+  "version": "0.0.1",
+  "description": "Jigen Lab (次元ラボ) is a toolkit on website for virtual steamer using VRM models.",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@cocoloring.github.com:cocoloring/jigenlab.git"
+  },
+  "author": {
+    "name": "Cocoloring",
+    "email": "cocoloring@outlook.com",
+    "url": "https://github.com/cocoloring/"
+  },
+  "engines": {
+    "node": ">=16",
+    "pnpm": ">=6"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.5.2"
+  }
+}
