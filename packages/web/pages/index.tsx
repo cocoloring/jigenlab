@@ -1,7 +1,7 @@
-import Head from 'next/head'
+import DemoComponent from '@jigenlab/ui'
 
 export default function Home() {
   return (
-    <div>Hello, World!</div>
+    <DemoComponent />
   )
 }
